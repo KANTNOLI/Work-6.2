@@ -1,0 +1,10 @@
+USA       12.00  1
+Brazil    13.00  2
+Canada    14.00  3
+China     15.00  4
+Colombia  16.00  5
+Cuba      17.00  6
+Egypt     18.00  7
+Germany   19.00  8
+Iran      20.00  9
+Japan     21.00  10
