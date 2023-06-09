@@ -12,8 +12,8 @@ int main() {
 	setlocale(LC_ALL, "RUS");
 	ifstream fin;
 	bool flag = true;
-	string inDestin, time;
-	int number;
+	string inDestin, time = "Вы ввели название страны не правильно";
+	int number = -1;
 	
 	//Ввод данных
 	ofstream fout;
